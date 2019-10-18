@@ -29,4 +29,4 @@ Hopefully, it helps you in further.
 
 
 
-                                                                         [Next:](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_1)
+                                                                         
