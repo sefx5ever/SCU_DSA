@@ -1,6 +1,6 @@
 # SCU_DSA
 
-![Image description](https://drive.google.com/file/d/1ThSsMnb7XHUFDZiHIrieK5VFhkys19DJ/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1ThSsMnb7XHUFDZiHIrieK5VFhkys19DJ/view?usp=sharing">
 
 陳偉傑（06170171）
 東吳大學【巨量資料管理學士學位學程】
