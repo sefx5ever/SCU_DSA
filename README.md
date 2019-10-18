@@ -26,3 +26,7 @@ The repository is order by weekly learning note.😍
 
 『Star』✨if like the content, especially 『Fork』👉.
 Hopefully, it helps you in further.
+
+
+
+                                                                         [Next:](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_1)
