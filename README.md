@@ -1,5 +1,7 @@
 # SCU_DSA
 
+Format: ![Me](https://drive.google.com/open?id=1ThSsMnb7XHUFDZiHIrieK5VFhkys19DJ)
+
 陳偉傑（06170171）
 東吳大學【巨量資料管理學士學位學程】
 
@@ -11,7 +13,7 @@
 | 3  | [Quick Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_3)  |
 | 4  | [Heap Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_4)  |
 
-### Extra-curricular learning
+### Extra-curricular Learning
 * [Selenium Learning](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/ryBnJPwdr)
 * [SQL for Beginner](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/rkNG5vLwB)
 * [Cent OS and Cronjob](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/r1Qesa1uS)
