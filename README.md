@@ -6,11 +6,6 @@
 巨資三A
 東吳大學【巨量資料管理學士學位學程】
 
-### Problem : Can't read my .ipynb ? [Try this Link](https://nbviewer.jupyter.org/github/sefx5ever/SCU_DSA/tree/master/)
-1. Click on the link [HERE](https://nbviewer.jupyter.org/github/sefx5ever/SCU_DSA/tree/master/).
-2. Choose the any week folder you're going to check out.
-3. THEN, It works 😂
-
 ### Learning Progress
 | Week  | Data Structure & Algorithm | Notes |
 | ------------- | ------------- | ------------- |
