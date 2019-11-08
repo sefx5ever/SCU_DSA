@@ -14,12 +14,11 @@
 ### Learning Progress
 | Week  | Data Structure & Algorithm | Notes |
 | ------------- | ------------- | ------------- |
-| 1  | [Linked-List](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_1)  | [📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/H1wfxQv_B) |
-| 2  | [Stack And Queue](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_2)  | [📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/Hk9ykiUtB) |
-| 3  | [Quick Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_3)  | [📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/H1MK1iUFH) |
-| 4  | [Heap Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_4)  | [📍]
-(https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/SJEcyiUtH) |
-| 5  | [Merge Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_4)  | [📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/rkGNzeQjS) |
+| 1 | [Linked-List](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_1)|[📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/H1wfxQv_B)|
+| 2 | [Stack And Queue](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_2)|[📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/Hk9ykiUtB)|
+| 3 | [Quick Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_3)|[📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/H1MK1iUFH)|
+| 4 | [Heap Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_4)|[📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/SJEcyiUtH)|
+| 5 | [Merge Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_4)|[📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/rkGNzeQjS)|
 
 ### Extra-curricular Learning
 * [Selenium Learning](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/ryBnJPwdr) 👍
