@@ -1,1 +1,14 @@
+# Merge Sort Versus Heap Sort
 
+#### Time Complexity
+| Data Structure | Time Complexity[Best] | Time Complexity[Average] | Time Complexity[Worst] |
+| ------------- | ------------- | ------------- | ------------- |
+| Heap Sort | O(n log(n)) |  O(n log(n)) | O(n log(n)) |
+| Merge Sort | O(n log(n)) |  O(n log(n)) | O(n log(n)) |
+
+#### Chart
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fplot.ly%2F~joecheatham%2F13.embed&psig=AOvVaw0J0c8y2hBXpX_azFEbbE1n&ust=1573313859975000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiZ1ID52uUCFQAAAAAdAAAAABAd)
+
+#### Descriptions:
+* Heap sort uses close to the right number comparisons but need to move data around quite a bit. It can be done in a way that uses very little extra memory. It's probably googd when memory is tight, and you are sorting many small items that come stored in an array.
+* Merge sort is good for data that's too big to have in memory at once, because its pattern of storage access is very regular. It also uses even fewer comparisons then heap sort, and is expecially suited for data stored as linked lists.
