@@ -4,12 +4,11 @@
 Link to code page: https://github.com/sefx5ever/SCU_DSA/blob/master/HW2/merge_sort_06170171.py
 
 ### Flow Desription:
-ARRAY = [4,1,3,2,16,14,8]
-Step 1: 3 is swapped with 14.
-Step 2: 1 is swapped with 16.
-Step 3: Max heap is created and 4 is swapped with 16.
-Step 4: 16 is disconnected from heap.
-Step 5: Repeat Step
+1. Find the middle point to divide the array into two half
+2. Call mergeSort for first half
+3. Call mergeSort for second half
+4. Merge the two halves sorted in step 2 and 3
+5. Repeat Step
 
 ### Difficulties:
 1. Same mistakes I made in the heap sort, I was the easiest to error in recursive and OOP, so start to learn those thing in the online courses to boost up my coding skill.
