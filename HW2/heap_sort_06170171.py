@@ -46,12 +46,4 @@ class Solution(object):
             self.list_[i],self.list_[index] = self.list_[index],self.list_[i]
             self.heapify(i,len_) # 重新檢查機制，確保沒有子節點大於父節點情況
 
-
-# In[2]:
-
-
-list_ = [1,6,7,2,1,3,4]
-heap = Solution().heapSort(list_)
-print(list_)
-
 # Reference: https://www.youtube.com/watch?v=j-DqQcNPGbE
