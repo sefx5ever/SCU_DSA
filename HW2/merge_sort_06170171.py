@@ -41,17 +41,7 @@ class Solution(object):
             list_[send] = right[countR]
             countR+=1
             send+=1
-       
-
-
-# In[2]:
-
-
-list_ = [8,4,3,1,1,6,7,5]
-merge = Solution()
-merge.mergeSort(list_)
-print(list_)
-
+  
 # Reference: 
 # https://www.youtube.com/watch?v=6pV2IF0fgKY&t=141s
 # https://www.youtube.com/watch?v=mB5HXBb_HY8&t=444s
