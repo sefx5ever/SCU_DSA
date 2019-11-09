@@ -6,7 +6,7 @@
 
 class Solution(object):
     # 該區將list切成用list組成的一個number後，執行merge function
-    def mergeSort(self,list_):
+    def merge_sort(self,list_):
         len_ = len(list_)  # 取出某情況時，list之總長度
         if (len_ < 2): # 設定條件機制，當達到一個list中只有一個number時，
             return     # 跳出該遞迴
@@ -16,6 +16,7 @@ class Solution(object):
         self.mergeSort(left)        # 用以分割list中左半部
         self.mergeSort(right)       # 用以分割list中右半部
         self.merge(list_,left,right)# 當最終遞迴結束後，開始往回執行merge function
+        print(list_)
      
     # 該區將list用一對一比較形式，完成該遞迴之合併
     def merge(self,list_,left,right):
