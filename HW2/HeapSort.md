@@ -28,11 +28,11 @@ Step 5: Repeat Step
 * #### Heap sort is a comparison based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for remaining element.
 
 * #### Example ：
-(1) Node is at index : i
-(2) Left Child is at : 2 * i + 1
-(3) Right Child is at: 2 * i + 2
-(4) Parent is at     : | i/2 |
-(5) Full Binary Tree : 2 ^ (h + 1) - 1 of Nodes
+1. Node is at index : i
+2. Left Child is at : 2 * i + 1
+3. Right Child is at: 2 * i + 2
+4. Parent is at     : | i/2 |
+5. Full Binary Tree : 2 ^ (h + 1) - 1 of Nodes
 
 * #### Let's say i = 2(B), then left child is at 4(D)[ 2 * 2 ], right child is at 5(E)[ 2 * 2 + 1 ]. To prove that the D and E is the child of B, so LEFT[ 4 / 2 = 2 ] or RIGHT[ |5 / 2| = 2 ]. This is a max complete binary tree so it has 7[ 2 ^ (2 + 1) - 1 ] of Nodes.
 
