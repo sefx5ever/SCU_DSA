@@ -1,9 +1,9 @@
 
 # Heap Sort
 
-1. ### Array Representation of Binary Tree
+### Array Representation of Binary Tree
 ![](https://i.imgur.com/PscG1Q4.jpg)
-2. ### ChatFlow
+### ChatFlow
 ![](https://i.imgur.com/VZMIBIf.png)
 
 Link to code page: https://github.com/sefx5ever/SCU_DSA/blob/master/HW2/heap_sort_06170171.py
