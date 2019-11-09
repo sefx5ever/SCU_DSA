@@ -5,7 +5,7 @@
 
 
 class Solution(object):     
-    def heapSort(self,list_):
+    def heap_sort(self,list_):
         self.list_ = list_
         self.maxHeap()
         print (self.list_)
