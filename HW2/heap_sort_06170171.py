@@ -8,6 +8,7 @@ class Solution(object):
     def heapSort(self,list_):
         self.list_ = list_
         self.maxHeap()
+        print (self.list_)
         
     # 使用 Max Heap方式，每次list中0位置必須在heapify後為list中最大之數
     def maxHeap(self):
