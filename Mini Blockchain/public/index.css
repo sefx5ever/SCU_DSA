@@ -1,0 +1,154 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    font-size: 45px;
+    font-weight: bold;
+    background-color: #5C4C8B;
+    color: white;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: thistle 2px solid;
+    overflow-x: hidden;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+
+.navBorder{
+    position: relative;
+    margin: 2%;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0px 2px 5px 5px #888888;
+    width: 30%;
+    min-width: 25%;
+    height: 210px;
+}
+
+.navBorder:hover{
+    background-color: whitesmoke;
+}
+
+.navBorder div{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.navTitle{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navSelection{
+    border: 1 solid grey;
+    border-radius: 8px;
+    width: 30%;
+}
+
+.navSelection option{
+    text-align: center;
+}
+
+input{
+    border: 1px solid grey;
+    border-radius: 8px;
+    height: 20px;
+    width: 50%;
+    text-align: center;
+}
+
+h3{
+    margin: 0;
+}
+
+.navButton{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+button{
+    width: 100%;
+    border-bottom: none #B7C7E1 ;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+button:hover{
+    background-color: #623A84;
+    color: white;
+}
+
+.userTitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+.user1{
+    display: inline-block;
+    width: 33%;
+    background-color: violet;
+}
+
+.user2{
+    display: inline-block;
+    width: 33%;
+    background-color: red;
+}
+
+.user3{
+    display: inline-block;
+    width: 33%;
+    background-color: yellow;
+}
+
+.userBlock{
+    height: 100%;
+}
+
+.block{
+    border: 1px groove black;
+    border-radius: 15px;
+    background: white;
+    margin: 2%;
+    overflow-x: scroll;
+}
+
+footer{
+    margin-top: 5px;
+    background-color: #5C4C8B;
+    color: white;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid black;
+}
+
+@media only screen and (max-width: 600px) {
+    .user1,.user2,.user3{
+        width: 100%;
+    }
+
+    .navBorder {
+        width: 80%;
+    }
+
+    footer{
+        font-size: 10px;
+    }
+}

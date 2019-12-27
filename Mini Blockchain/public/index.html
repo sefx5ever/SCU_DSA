@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="http://localhost:3000/socket.io/socket.io.js"></script>
+    <link rel="stylesheet" href="./index.css">
+    <title>Document</title>
+</head>
+<body>
+    <script src="./index.js"></script>
+    <header>
+        JIE's COIN
+    </header>
+    <nav>
+        <div class="navBorder">
+            <div class="navTitle">TRADE STORES</div>
+            <div>
+                SENDER:
+                <select id="sender" class="navSelection">
+                    <option value="Amy">Amy</option>
+                    <option value="Belly">Belly</option>
+                    <option value="Chris">Chris</option>
+                </select>
+            </div>
+            <div><h3>TO</h3></div>
+            <div>
+                RECEIVER:
+                <select id="receiver" class="navSelection">
+                    <option value="Amy">Amy</option>
+                    <option value="Belly">Belly</option>
+                    <option value="Chris">Chris</option>
+                </select>
+            </div>
+            <div>
+                <span>Amount:</span>
+                <input id="amount" type="text" placeholder="ENTER Amount">
+            </div>
+            <div class="navButton">'
+                <button type="submit" onclick="sendTransaction()">SUBMIT</button>
+            </div>
+        </div>
+    </nav>
+    <div class="userBlock">
+        <div id="user1" class="user1">
+            <div class="userTitle">
+                USER1 : Amy
+            </div>
+        </div>
+        <div id="user2" class="user2">
+            <div class="userTitle">
+                USER2 : Belly
+            </div>
+        </div>
+        <div id="user3" class="user3">
+            <div class="userTitle">
+                USER3 : Chris
+            </div>
+        </div>
+    </div>
+    <footer>&copy; BLOCK CHAIN Copyright 2019 WEI-JIE,TAN </footer>
+</body>
+</html>
