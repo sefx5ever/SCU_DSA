@@ -9,7 +9,7 @@ The repository is order by weekly learning note.😍
 
 『Star』✨if like the content, especially 『Fork』👉.
 Hopefully, it helps you further.
-
+---
 
 
 ### Learning Progress
@@ -22,7 +22,7 @@ Hopefully, it helps you further.
 | 5 | [Merge Sort](https://github.com/sefx5ever/SCU_DSA/tree/master/Week_4)|[📍](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/rkGNzeQjS)|
 
 ## Week 1
----
+
 
 
 ### Extra-curricular Learning
