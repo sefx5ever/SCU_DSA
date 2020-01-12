@@ -137,7 +137,7 @@ Hopefully, it helps you further.
 
 ### Week 16
 * [Final Presentation Video](https://www.youtube.com/watch?v=Ri3o0ZqYBmQ&feature=youtu.be&fbclid=IwAR2ANnvJfaMrMoKAm1hQoLucdelLyGYvRng7v1vV7fBmv2nfqTBbeRYxdQ4)
-* [Respository]()
+* [Respository](https://github.com/sefx5ever/SCU_DSA/tree/master/Mini%20Blockchain)
 
 ### Week 17
 * [Overview](https://docs.google.com/presentation/d/e/2PACX-1vSkbZghFr5Y3VG3b-BKCZiLNHyhcMIxFmNDHn-tgWQqH4vaGjulKASn_ex_LLDJwxPIRCacGQnBRYrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -156,11 +156,12 @@ Hopefully, it helps you further.
 * [Python Excel](https://hackmd.io/@9CYR6Dt4Spaq5KQt88pXvg/HkalGAcYS)
 
 ## Other Respository
-* [Web APP of Mini Levee Game]()
+* [Web APP of Mini Levee Game](https://github.com/sefx5ever/Levee-Game)
 * [Website of Crowdfunding Visualiazation](https://github.com/sefx5ever/Pro_Visualization.github-io)
 
 ## Semester Review
 The subject data structure and algorithm is the most impressive and memorable class in my uni. life. First of all, there are approximately 70 students in this lesson, so what I think at first was teacher might have no time to follow up the students studied progress and also it might mess up quick. Besides that, the entire lesson require a fundamental coding skills, because of this, it will pull student down when they can't get an aprropriate result. In short, I will think this is challenging for teacher. 
+Eventually, it changed my mind. The majority of student insisted to do their own work and put a lot effort to finished it, teacher and student did a great job. For me, I thoght it was recommendable to take a try.
 
 
 
