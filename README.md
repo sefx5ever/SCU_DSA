@@ -157,7 +157,7 @@ Hopefully, it helps you further.
 
 ## Other Respository
 * [Web APP of Mini Levee Game]()
-* [Website of Crowdfunding Visualiazation]()
+* [Website of Crowdfunding Visualiazation](https://github.com/sefx5ever/Pro_Visualization.github-io)
 
 ## Semester Review
 The subject data structure and algorithm is the most impressive and memorable class in my uni. life. First of all, there are approximately 70 students in this lesson, so what I think at first was teacher might have no time to follow up the students studied progress and also it might mess up quick. Besides that, the entire lesson require a fundamental coding skills, because of this, it will pull student down when they can't get an aprropriate result. In short, I will think this is challenging for teacher. 
